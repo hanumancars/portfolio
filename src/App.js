@@ -1,6 +1,6 @@
 import './App.css';
 import { useEffect, useState, useRef } from 'react';
-import { FaChartBar, FaHotel, FaUniversity, FaStar, FaGraduationCap, FaTools, FaDatabase, FaChartLine, FaMobileAlt, FaBriefcase, FaUserGraduate, FaUserTie } from 'react-icons/fa';
+import {  FaStar, FaGraduationCap, FaTools, FaDatabase, FaChartLine, FaMobileAlt, FaBriefcase, FaUserGraduate, FaUserTie } from 'react-icons/fa';
 import { GiFalconMoon } from 'react-icons/gi';
 
 const professions = [
